@@ -8,6 +8,7 @@ import java.io.File;
  * SearchEngine()
  * 		Searches through list of files for search word
  * (private)getWord()
+ * 		OUT: String
  * 		Request word from user
  */
 
